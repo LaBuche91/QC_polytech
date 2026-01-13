@@ -16,4 +16,4 @@ TP 3: Algorithme de Grover [![Ouvrir dans Colab](https://colab.research.google.c
 
 TP 4: Transformée de Fourier Quantique (QFT) [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oceko/QC_polytech/blob/main/TP%20info%20quantique/TP4_QFT/TP4_QFT.ipynb?copy=true)
 
-*Correction* : [Lien vers le notebook corrigé](https://github.com/oceko/QC_polytech/blob/main/corrections/TP4_QFT_corrigé.ipynb)
+*Correction* : [Lien vers le notebook corrigé](https://github.com/oceko/QC_polytech/blob/main/corrections/TP4_QFT%20corrigé.ipynb)
